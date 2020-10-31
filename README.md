@@ -1,5 +1,5 @@
 # flatc-docker
-Lightweight docker image for flatc
+Alpine-based lightweight docker image for flatc
 
 ```console
 $ docker run zabealbe/flatc <flatc arguments>
